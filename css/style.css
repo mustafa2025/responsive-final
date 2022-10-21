@@ -1,5 +1,8 @@
 body {
 background-image: url ("images/kobechips.jpeg");
-}
 font-family: 'Shadows Into Light',
-cursive;
+        cursive;
+}
+#magic {
+    font-family: 'Shalimar', cursive;
+}
